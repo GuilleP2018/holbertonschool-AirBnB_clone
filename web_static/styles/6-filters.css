@@ -34,11 +34,6 @@ button:hover {
     display: flex;
     flex-direction: column;
     align-items: left;
-
-}
-
-.amenities {
-    text-indent: 30px;
 }
 
 .locations {
@@ -61,7 +56,6 @@ button:hover {
     margin-bottom: 15px;
     padding-left: 30px;
     text-align: left;
-
 }
 
 .locations:hover .popover,
@@ -74,7 +68,7 @@ button:hover {
 }
 
 .locations:hover .popover h3 {
-    font-weight: 600;
+    font-weight: 6x00;
     margin-bottom: 0;
     padding-left: 0;
 }
@@ -86,6 +80,5 @@ button:hover {
     width: 100%;
     border: 1px solid #DDDDDD;
     border-radius: 4px;
-    list-style-type: none;
     padding: 25px;
 }
